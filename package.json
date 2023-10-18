@@ -1,0 +1,16 @@
+{
+  "name": "json-server-oefening-rectangles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db": "json-server ./db.json --watch",
+    "dev": "vite --open --host"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "randomcolor": "^0.6.2"
+  }
+}
